@@ -2,7 +2,7 @@
 
 This is my open source book "Play data development with Scala and Spark".
 
-The book is Chinese language only. It has 5 chapters included:
+The book is in Chinese language only. It has 5 chapters included:
 
   1. Scala introduction
   2. Syntaxes for Scala
@@ -12,6 +12,6 @@ The book is Chinese language only. It has 5 chapters included:
 
 The book is licensed under Apache License Version 2.0.
 
-If you have got any question for this book, please let me know.
+If you have got any issue to this book, please let me know.
 
 Bitfox
